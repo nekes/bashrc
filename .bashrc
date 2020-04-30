@@ -12,8 +12,6 @@ echo '
 |  __/___) || | | |___|  _ <  /  \
 |_|  |____/ |_| |_____|_| \_\/_/\_\
 
-Brought to you by P3TERX
-GitHub: https://github.com/P3TERX
-Blog: https://p3terx.com (chinese)
+by @_@
 ------------------------------------
 '
